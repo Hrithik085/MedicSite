@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+*{
+    font-family: "Parkinsans", serif;
+}
+
+#homie{
+    background-image: url("https://www.med-geraete.de/media/cf/e9/f2/1678270893/01_Dr_Mueller_Startseite_Weltweit.jpg?ts=1678270893");
+    height: 380px;
+   background-position:center;
+   background-size: cover;
+
+}
